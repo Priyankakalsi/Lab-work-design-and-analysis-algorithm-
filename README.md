@@ -1,4 +1,4 @@
-# Lab-work-design-and-analysis-algorithm-
+# Lab work Design and Analysis Algorithm-
 code implementation in a C++ 
 Problem statements:
 1. Program to check whether a number is prime or not.
