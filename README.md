@@ -1,7 +1,5 @@
 # Lab work Design and Analysis Algorithm-
-code implementation in a C++
-/br
-Problem statements:
+code implementation in a C++ language.
 1. Program to check whether a number is prime or not.
 2. Program to search an element from a list using Linear Search.
 3. Program to search an element from a list using Binary Search.
