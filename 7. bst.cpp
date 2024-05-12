@@ -1,6 +1,5 @@
-// Write a program to insert the elements with Binary Search Tree, and print.
+// Write a program to insert and print the elements of the Binary Search Tree.
 #include <iostream>
-
 using namespace std;
 
 // Define the structure for a node in the BST
